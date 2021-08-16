@@ -33,7 +33,7 @@ If using sqlite3:
 After Installing modules, set some configuration on ENV :
 
     WEB_PORT = :8780
-    IMG_DIR = F:\a\majootestapi // directory to store image
+    IMG_DIR = F:\a\testapi // directory to store image
     IMG_DIR_PRODUCT = \images\products 
     IMG_LIMIT = 10
     SEED_LOAD = 0 
